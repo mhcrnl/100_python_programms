@@ -27,7 +27,12 @@
 |Scikit-Learn|[Scikit-learn](https://scikit-learn.org/stable/)                  |[07_scikit](07_scikit.ipynb)       |
 
 
+### Web scraping
 
+BeautifulSoup   
++ 09_beautifulsoup.ipybn
++ 10_beautifulsoup.ipybn
++ 11_beautifulsoup.ipybn
 
 ### Analiza actiuni
 
