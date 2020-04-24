@@ -41,15 +41,18 @@ BeautifulSoup
 + [10_beautifulsoup.ipynb](10_beautifulsoup.ipynb)
 + [11_beautifulsoup.ipynb](11_beautifulsoup.ipynb)
 + [14_wikipedia.ipynb](14_wikipedia.ipynb)
++ [18_BeautifulSoup.ipynb](18_BeautifulSoup.ipynb)
 
 
 ### Analiza actiuni
 
 - Boeing (BA)   [06_Boeing.ipynb](06_Boeing.ipynb)
 - Facebook (FB) [12_Facebook.ipynb](12_Facebook.ipynb)
+                [16_Facebook.ipynb](16_Facebook.ipynb)
 
 ### Download pdf
 * [13_pdf_download.ipynb](13_pdf_download.ipynb)
+* [17_search_pdf.ipynb](17_search_pdf.ipynb)
 
 ### Books
 - [machine_learning_with_python_tutorial.pdf](machine_learning_with_python_tutorial.pdf)
