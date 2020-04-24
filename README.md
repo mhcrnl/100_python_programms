@@ -28,7 +28,7 @@
 
 ### Machine learning map (https://github.com/trekhleb/homemade-machine-learning)
 
-![foto](machine_learning_map.png)
+![foto](machine-learning-map.png)
 
 #### Linear regression
 - [15_linear_regression.ipynb](15_linear_regression.ipynb)
