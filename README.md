@@ -26,6 +26,13 @@
 |           |                                                                   |                                          |
 |Scikit-Learn|[Scikit-learn](https://scikit-learn.org/stable/)                  |[07_scikit.ipynb](07_scikit.ipynb)        |
 
+### Machine learning map (https://github.com/trekhleb/homemade-machine-learning)
+
+![foto](machine_learning_map.png)
+
+#### Linear regression
+- [15_linear_regression.ipynb](15_linear_regression.ipynb)
+
 
 ### Web scraping
 
@@ -33,8 +40,17 @@ BeautifulSoup
 + [09_beautifulsoup.ipynb](09_beautifulsoup.ipynb)
 + [10_beautifulsoup.ipynb](10_beautifulsoup.ipynb)
 + [11_beautifulsoup.ipynb](11_beautifulsoup.ipynb)
++ [14_wikipedia.ipynb](14_wikipedia.ipynb)
+
 
 ### Analiza actiuni
 
 - Boeing (BA)   [06_Boeing.ipynb](06_Boeing.ipynb)
 - Facebook (FB) [12_Facebook.ipynb](12_Facebook.ipynb)
+
+### Download pdf
+* [13_pdf_download.ipynb](13_pdf_download.ipynb)
+
+### Books
+- [machine_learning_with_python_tutorial.pdf](machine_learning_with_python_tutorial.pdf)
+- [python_machine_learning.pdf](python_machine_learning.pdf)
