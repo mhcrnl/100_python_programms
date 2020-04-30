@@ -51,6 +51,7 @@ Requests
 Ipywidgets
 + [22_ipywidgets.ipynb](22_ipywidgets.ipynb)
 + [23_image.ipynb](23_image.ipynb)
++ [24_gmaps.ipynb](24_gmaps.ipynb)
 
 ### Analiza actiuni
 
