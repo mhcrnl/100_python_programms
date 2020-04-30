@@ -33,6 +33,7 @@
 #### Linear regression
 - [15_linear_regression.ipynb](15_linear_regression.ipynb)
 - [19_LR_stock_predict.ipynb](19_LR_stock_predict.ipynb)
+- [20_liniar_regression.ipynb](20_liniar_regresion.ipynb)
 
 
 ### Web scraping
