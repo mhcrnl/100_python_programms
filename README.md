@@ -48,6 +48,8 @@ BeautifulSoup
 Requests
 + [21_wsj_rss.ipynb](21_wsj_rss.ipynb)
 
+Ipywidgets
++ [22_ipywidgets.ipynb](22_ipywidgets.ipynb)
 
 ### Analiza actiuni
 
