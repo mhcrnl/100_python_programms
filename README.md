@@ -43,6 +43,8 @@ BeautifulSoup
 + [11_beautifulsoup.ipynb](11_beautifulsoup.ipynb)
 + [14_wikipedia.ipynb](14_wikipedia.ipynb)
 + [18_BeautifulSoup.ipynb](18_BeautifulSoup.ipynb)
+Requests
++ [21_wsj_rss.ipynb](21_wsj_rss.ipynb)
 
 
 ### Analiza actiuni
