@@ -59,6 +59,9 @@ Ipywidgets
 - Boeing (BA)   [06_Boeing.ipynb](06_Boeing.ipynb)
 - Facebook (FB) [12_Facebook.ipynb](12_Facebook.ipynb)
                 [16_Facebook.ipynb](16_Facebook.ipynb)
+                
+### Analiza CryptoCurrency
+- [ETHER USD](33_ETHUSD.ipynb)
 
 ### Download pdf
 * [13_pdf_download.ipynb](13_pdf_download.ipynb)
