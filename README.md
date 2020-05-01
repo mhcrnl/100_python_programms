@@ -54,6 +54,10 @@ Ipywidgets
 + [24_gmaps.ipynb](24_gmaps.ipynb)
 + [25_video.ipynb](25_video.ipynb)
 
+### Analiza Bursiera
+#### Bollinger Bands
+- [34_BollingerBands.ipynb](34_BollingerBands.ipynb)
+
 ### Analiza actiuni
 
 - Boeing (BA)   [06_Boeing.ipynb](06_Boeing.ipynb)
