@@ -68,6 +68,9 @@ Ipywidgets
 ### Analiza CryptoCurrency
 - [ETHER USD](33_ETHUSD.ipynb)
 
+## Maps
+* [36_maps.ipynb](36_maps.ipynb)
+
 ### Download pdf
 * [13_pdf_download.ipynb](13_pdf_download.ipynb)
 * [17_search_pdf.ipynb](17_search_pdf.ipynb)
