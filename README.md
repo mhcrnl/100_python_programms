@@ -74,6 +74,7 @@ Ipywidgets
 - [ETHER USD](33_ETHUSD.ipynb)
 - [39_bitcoin.ipynb](39_bitcoin.ipynb)
 - [31_bitcoin_rolling_returns.ipynb](31_bitcoin_rolling_returns.ipynb)
+- [30_etherium](30_etherium.ipynb)
 
 ## Machine learning
 - [32_autocorrelation.ipynb](32_autocorrelation.ipynb)
