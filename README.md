@@ -60,6 +60,7 @@ Ipywidgets
 - [40_liniar_regression.ipynb](40_liniar_regression.ipynb)
 - [34_BollingerBands.ipynb](34_BollingerBands.ipynb)
 - [42_financial_analysis.ipynb](42_financial_analysis.ipynb)
+- [28_SimpleStockCharts.ipynb](28_SimpleStockCharts.ipynb)
 
 ### Analiza actiuni
 
