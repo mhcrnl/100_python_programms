@@ -58,6 +58,7 @@ Ipywidgets
 ### Analiza Bursiera
 - [40_liniar_regression.ipynb](40_liniar_regression.ipynb)
 - [34_BollingerBands.ipynb](34_BollingerBands.ipynb)
+- [42_financial_analysis.ipynb](42_financial_analysis.ipynb)
 
 ### Analiza actiuni
 
