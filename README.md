@@ -47,6 +47,7 @@ BeautifulSoup
 
 Requests
 + [21_wsj_rss.ipynb](21_wsj_rss.ipynb)
++ [35_cnn.ipynb](35_cnn.ipynb)
 
 Ipywidgets
 + [22_ipywidgets.ipynb](22_ipywidgets.ipynb)
