@@ -74,6 +74,9 @@ Ipywidgets
 - [ETHER USD](33_ETHUSD.ipynb)
 - [39_bitcoin.ipynb](39_bitcoin.ipynb)
 
+## Machine learning
+- [32_autocorrelation.ipynb](32_autocorrelation.ipynb)
+
 ## Maps
 * [36_maps.ipynb](36_maps.ipynb)
 * [38_openBrowser.ipynb](38_openBrowser.ipynb)
