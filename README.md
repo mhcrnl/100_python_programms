@@ -65,6 +65,8 @@ Ipywidgets
 - Facebook (FB) [12_Facebook.ipynb](12_Facebook.ipynb)
                 [16_Facebook.ipynb](16_Facebook.ipynb)
                 
+- [37_American_Airlines.ipynb](37_American_Airlines.ipynb)
+                
 ### Analiza CryptoCurrency
 - [ETHER USD](33_ETHUSD.ipynb)
 
