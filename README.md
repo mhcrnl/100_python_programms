@@ -38,6 +38,9 @@
 ## Translating
 × [27_translate-checkpoint.ipynb](27_translate-checkpoint.ipynb)
 
+## Video
+- [25_video.ipynb](25_video.ipynb)
+
 ### Web scraping
 
 BeautifulSoup   
