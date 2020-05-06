@@ -66,6 +66,7 @@ Ipywidgets
                 [16_Facebook.ipynb](16_Facebook.ipynb)
                 
 - [37_American_Airlines.ipynb](37_American_Airlines.ipynb)
+- [41_microsoft.ipynb](41_microsoft.ipynb)
                 
 ### Analiza CryptoCurrency
 - [ETHER USD](33_ETHUSD.ipynb)
