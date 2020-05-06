@@ -35,6 +35,8 @@
 - [19_LR_stock_predict.ipynb](19_LR_stock_predict.ipynb)
 - [20_liniar_regression.ipynb](20_liniar_regresion.ipynb)
 
+## Translating
+× [27_translate-checkpoint.ipynb](27_translate-checkpoint.ipynb)
 
 ### Web scraping
 
