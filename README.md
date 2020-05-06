@@ -56,7 +56,7 @@ Ipywidgets
 + [25_video.ipynb](25_video.ipynb)
 
 ### Analiza Bursiera
-#### Bollinger Bands
+- [40_liniar_regression.ipynb](40_liniar_regression.ipynb)
 - [34_BollingerBands.ipynb](34_BollingerBands.ipynb)
 
 ### Analiza actiuni
