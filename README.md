@@ -72,6 +72,7 @@ Ipywidgets
 
 ## Maps
 * [36_maps.ipynb](36_maps.ipynb)
+* [38_openBrowser.ipynb](38_openBrowser.ipynb)
 
 ### Download pdf
 * [13_pdf_download.ipynb](13_pdf_download.ipynb)
